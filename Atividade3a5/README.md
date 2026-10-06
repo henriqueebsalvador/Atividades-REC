@@ -13,7 +13,7 @@ Cada exercício tem um arquivo funcoes.php com a lógica e um index.php com exem
 ## Como abrir
 
 1. Inicie o Apache no XAMPP.
-2. Abra http://localhost/henrique_salvador_2026/Atividades-REC/Atividade3a5/
+2. Abra http://localhost:8080/henrique_salvador_2026/Atividades-REC/Atividade3a5/
 3. Clique no exercício desejado.
 
 Os exemplos já possuem valores definidos no index.php. Para experimentar outros valores, altere as variáveis nesse arquivo. Os exercícios 12 e 18 também possuem formulários para pesquisar produtos e pacientes.
@@ -36,3 +36,5 @@ Utiliza PHP 8 e a extensão mbstring, disponível neste XAMPP, para trabalhar co
 ## Verificação
 
 As funções foram executadas com exemplos e casos de limite, incluindo divisão por zero, listas vazias, textos com acentos, limites de descontos e fretes, classificação de senhas e consultas em datas diferentes. Todos os arquivos PHP foram verificados com php -l.
+
+A página inicial, os 19 links de exercícios/desafio e as pesquisas de produtos e pacientes também foram testados por HTTP com o servidor do PHP.
