@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="510" viewBox="0 0 860 510" role="img" aria-labelledby="titulo descricao">
+  <title id="titulo">Casos de uso - Estoque do Mercado</title>
+  <desc id="descricao">O funcionário responsável pelo estoque pode cadastrar, listar e visualizar, editar e excluir produtos.</desc>
+  <rect width="860" height="510" fill="white"/>
+  <g font-family="Arial, sans-serif" fill="#222">
+    <text x="430" y="36" text-anchor="middle" font-size="23">Casos de uso - Estoque do Mercado</text>
+    <rect x="330" y="70" width="490" height="405" rx="3" fill="none" stroke="#222" stroke-width="2"/>
+    <text x="575" y="105" text-anchor="middle" font-size="20">Estoque do Mercado</text>
+    <g stroke="#222" stroke-width="2" fill="none">
+      <circle cx="150" cy="209" r="23"/>
+      <path d="M150 232 V302 M105 258 H195 M150 302 L116 350 M150 302 L184 350"/>
+      <path d="M195 258 L430 160 M195 258 L430 245 M195 258 L430 330 M195 258 L430 415"/>
+    </g>
+    <text x="150" y="387" text-anchor="middle" font-size="17">Funcionário responsável</text>
+    <text x="150" y="412" text-anchor="middle" font-size="17">pelo estoque</text>
+    <g fill="#f0f5fa" stroke="#222" stroke-width="2">
+      <ellipse cx="595" cy="160" rx="165" ry="32"/>
+      <ellipse cx="595" cy="245" rx="165" ry="32"/>
+      <ellipse cx="595" cy="330" rx="165" ry="32"/>
+      <ellipse cx="595" cy="415" rx="165" ry="32"/>
+    </g>
+    <g text-anchor="middle" font-size="18">
+      <text x="595" y="166">Cadastrar produto</text>
+      <text x="595" y="251">Listar e visualizar produtos</text>
+      <text x="595" y="336">Editar produto</text>
+      <text x="595" y="421">Excluir produto</text>
+    </g>
+  </g>
+</svg>
